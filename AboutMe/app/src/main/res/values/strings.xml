@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Vishesh Gupta</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi, my name is Vishesh Gupta.
+    \n\nI love Android Development.
+    \n\nI am a huge sports enthusiast.
+    \nI love watching and playing cricket.
+    \nI can talk for hours about UFC.
+    \nI love to play Kabaddi, Football, Table Tennis.
+    \n\nI have a taste for soulful music.
+    \nI do not watch movies or web series :).
+    \n\nI love spending time with my friends and family.
+    \nI love going to places and exploring new things.
+    \n\nI also enjoy playing PC games, video games and mobile games.
+    \nI love rain :)
+    \n.
+
+    </string>
+    <string name="what_is_your_nickname">What is your nickname ?</string>
+    <string name="done">Done</string>
+</resources>
